@@ -1,0 +1,217 @@
+{
+  "sextoA": [
+    {
+      "id": 0,
+      "nombre": "AGUIRRE Facundo Agustín"
+    },
+    {
+      "id": 1,
+      "nombre": "AGUIRRE SALINAS Agustín"
+    },
+    {
+      "id": 2,
+      "nombre": "ALE Noelia Mariana Ramona"
+    },
+    {
+      "id": 3,
+      "nombre": "BARRIONUEVO Mía Antonella"
+    },
+    {
+      "id": 4,
+      "nombre": "BENITEZ CCOICCA Morena Ailin"
+    },
+    {
+      "id": 5,
+      "nombre": "BEÑACAR Valentina Denise"
+    },
+    {
+      "id": 6,
+      "nombre": "CACERES Pablo Joel"
+    },
+    {
+      "id": 7,
+      "nombre": "CARABAJAL Kiara Antonella"
+    },
+    {
+      "id": 8,
+      "nombre": "CESPEDES SOTELO Valeria Aylen"
+    },
+    {
+      "id": 9,
+      "nombre": "CONTARDI Luka Nicolás"
+    },
+    {
+      "id": 10,
+      "nombre": "CRESPO Martina Milagros"
+    },
+    {
+      "id": 11,
+      "nombre": "DELGADO Aylen Estefanía"
+    },
+    {
+      "id": 12,
+      "nombre": "DUARTE Damián Ariel"
+    },
+    {
+      "id": 13,
+      "nombre": "FLORES Maximo Thomas"
+    },
+    {
+      "id": 14,
+      "nombre": "FRAGANELLI David Eduardo"
+    },
+    {
+      "id": 15,
+      "nombre": "GALLARDO Martina Micaela"
+    },
+    {
+      "id": 16,
+      "nombre": "GHIORSSI Maia Ayelen"
+    },
+    {
+      "id": 17,
+      "nombre": "GOMEZ Marlen Elisa"
+    },
+    {
+      "id": 18,
+      "nombre": "GONZALEZ Franco Ramón"
+    },
+    {
+      "id": 19,
+      "nombre": "GUARAZ Luna Ayelen"
+    },
+    {
+      "id": 20,
+      "nombre": "HERRERA Juan Pablo"
+    },
+    {
+      "id": 21,
+      "nombre": "KURYLOWICZ Sophia Celeste"
+    },
+    {
+      "id": 22,
+      "nombre": "LEIVA Facundo Ezequiel"
+    },
+    {
+      "id": 23,
+      "nombre": "MANSILLA Lautaro Sebastián"
+    },
+    {
+      "id": 24,
+      "nombre": "MARTINEZ BENITES Tomas Elías"
+    },
+    {
+      "id": 25,
+      "nombre": "MEDINA Braian Valentín"
+    },
+    {
+      "id": 26,
+      "nombre": "MICHELL Juan Cruz"
+    },
+    {
+      "id": 27,
+      "nombre": "OVALLE Agustín Michel"
+    },
+    {
+      "id": 28,
+      "nombre": "PAVON Ivan Ezequiel"
+    },
+    {
+      "id": 29,
+      "nombre": "RADAVANCICH Franco Jesús Alberto"
+    },
+    {
+      "id": 30,
+      "nombre": "RASE Tomas Alejandro"
+    },
+    {
+      "id": 31,
+      "nombre": "RUIZ Belén Alejandra"
+    },
+    {
+      "id": "32",
+      "nombre": "SFARA Valentín Domenico"
+    },
+    {
+      "id": 33,
+      "nombre": "SILVERO Emmanuel Agustín"
+    },
+    {
+      "id": 34,
+      "nombre": "SOTO Lautaro Aníbal"
+    },
+    {
+      "id": 35,
+      "nombre": "VELAZQUEZ BLANCO Lucia Ailin"
+    }
+  ],
+
+  "sextoB": [
+    {
+      "id": 0,
+      "nombre": "6° B"
+    }
+  ],
+
+  "sextoF": [
+    {
+      "id": 0,
+      "nombre": "6° F"
+    }
+    
+  ],
+
+
+  
+  
+  "terceroD" : [
+    
+    {
+      "id": 0,
+      "nombre": "3° D"
+    }
+    
+
+  ],
+
+  "terceroF" : [
+    
+    {
+      "id": 0,
+      "nombre": "3° F"
+    }
+
+  ],
+
+  
+  
+  "segundoA": [
+    {
+      "id": 0,
+      "nombre": "2° A"
+    }
+  ],
+
+  "segundoF": [
+    {
+      "id": 0,
+      "nombre": "2° F"
+    }
+  ],
+
+ 
+ 
+  "primeroC": [
+    {
+      "id": 0,
+      "nombre": "1° C"
+    }
+  ],
+
+  "primeroG": [
+    {
+      "id": 0,
+      "nombre": "1° G"
+    }
+  ]
+}
